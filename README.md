@@ -6,7 +6,7 @@ These Engineering Values exist to guide our team in the work we produce and the 
 
 # People matter more
 
-We build systems and processes for people first—and if we forget or ignore those people, our systems become a source of dread, rather than a source of delight. A project that launches on time and on budget, but burns out a team, isn’t successful. Helping others when opportunities appear keeps us connected, even when we’re separated by great distances.
+We build systems and processes for people first—and if we forget or ignore those people, our systems become a source of dread, rather than a source of delight. A project that launches on time and on budget, but burns out a team, isn’t successful. Helping others keeps us connected, even when we’re separated by great distances.
 
 In our work, we use many tools as a means of communication, such as instant messaging apps, project management apps, version control, and peer review workflows. Sometimes, the tools we use to communicate can be a blunt instrument for human dialog. We strive to be aware of the limitations of the tools we use and keep in mind that they are a means to engage people and not an end in themselves.
 
@@ -22,22 +22,22 @@ We cultivate inclusivity at a technical level by building accessible products be
 
 We find our work fulfilling because we are always given the opportunity to learn something new. We like to work on new, unsolved problems over applying the same solutions to the same problems. Learning and sharing, with ourselves, our clients, and open communities is woven through all the work we do day by day.
 
-We believe that the best engineering comes from sharing and building together as a group. We embrace open-source software and processes. Public critiques keep us innovating, and save us from reinventing the wheel. By integrating collaboration into our daily work, we create the space for our team to ask for help and to be generous with their knowledge.
+We believe that the best engineering comes from sharing and building together as a group. We embrace open-source software and processes. The process of open code-review keep us innovating, and saves us from reinventing the wheel. By integrating collaboration into our daily work, we create the space for our team to ask for help and to be generous with their knowledge.
 
 # Excellence balances perfect and done
 
 We find the balance between getting things done and architectural zen. When we solve tricky software engineering problems, we also consider when we are seeing diminishing returns. Rather than creating in isolation, we iterate using real-world feedback and quantitative results to evaluate our work.
 
-Some projects need tactical engineering measures that are not meant to last. Other times, we discover new information, and we need to stop working to discuss the options again. Not all project scenarios are ideal, but we work with our clients to find out what works best for their project.
+Some projects need tactical engineering measures that are not meant to last. Other times, we discover new information, and we need to stop working to discuss the options again. Not all project scenarios are ideal, but we partner with our clients to find out what will work best for them.
 
 # Code for the future
 
 We think about the big picture before making important decisions. Creating a system to solve a complex problem is only the first part of a software project. Good systems last because they are maintainable and also maximize value for the client. Others will inherit our work and need to improve and maintain it. We don’t have perfect memory and know that sometimes the inheritors are just “future us.” We optimize code for future readers, even if that means using more verbose language or limiting the use of uncommon language features.
 
-We delight in automating away repetition for ourselves, the community, and our clients. Automation promises to reduce technical debt in our code, make our processes more robust, and save time and money. However, automation can also add unnecessary complexity and waste time. Just because we *can* automate something doesn’t mean we *should*.
+Automating away repetition for ourselves, the community, and our clients is delightful. Automation promises to reduce technical debt in our code, make our processes more robust, and save time and money. However, automation can also add unnecessary complexity and waste time. Just because we *can* automate something doesn’t mean we *should*.
 
 # Work joy into work
 
 As engineers, we have a tendency to look at technical challenges as fun puzzles to be solved. We try things, we break things, and we try again. We come back to work each day because we enjoy tinkering with the systems we build. When planning our work, we strive to leave room for joy, even with tight deadlines and exacting requirements.
 
-Making room for joy empowers us to find possibilities instead of problems, and to accept criticism with an open mind. Even amid extreme technical challenges, we find something to smile about—whether that’s a new skill learned, a helpful teammate, or wistfully deleting code we loved. Together, we smile in the face of adversity, freeing us to find elegant solutions to the toughest problems.
+Making room for joy empowers us to find possibilities instead of problems, and to accept criticism with an open mind. Even amid extreme technical challenges, we find something to smile about — whether that’s a new skill learned, a helpful teammate, or wistfully deleting code we loved. Together, we smile in the face of adversity, freeing us to find elegant solutions to the toughest problems.
