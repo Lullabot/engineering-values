@@ -1,12 +1,12 @@
 # Lullabot’s Engineering Values
 
-At Lullabot, we’re a team with a wide variety of backgrounds coming together to build systems to solve complex problems. We combine strategy, user interface design, and code, into cohesive software designs. Together, this work forms a [practice of software engineering](https://www.merriam-webster.com/dictionary/engineering). You may not think of yourself as an engineer, but what we do at Lullabot collectively is engineering. When we say engineering, we mean *you*.
+At Lullabot, we are a team with a wide variety of backgrounds coming together to build systems to solve complex problems. We combine strategy, user interface design, and code, into cohesive software solutions. Together, this work forms a [practice of software engineering](https://www.merriam-webster.com/dictionary/engineering). You may not think of yourself as an engineer, but what we do at Lullabot collectively is engineering. When we say engineering, we mean *you*.
 
 These Engineering Values exist to guide our team in the work we produce and the interactions we have with each other. These values overlap and expand on our [Core Values](https://www.lullabot.com/values) - they’re not a hierarchy or a tree. When solutions aren’t obvious, or there’s conflict, we use these values to ground our decisions.
 
 # People matter more
 
-We build systems and processes for people first—and if we forget or ignore those people, our systems become a source of dread, rather than a source of delight. A project that launches on time and on budget, but burns out a team, isn’t successful. Helping others when opportunities appear keeps us connected, even when we’re separated by great distances.
+We build systems and processes for people first — and if we forget or ignore those people, our systems become a source of dread, rather than a source of delight. A project that launches on time and on budget, but burns out a team, isn’t successful. Helping others when opportunities appear keeps us connected, even when we’re separated by great distances.
 
 In our work, we use many tools as a means of communication, such as instant messaging apps, project management apps, version control, and peer review workflows. Sometimes, the tools we use to communicate can be a blunt instrument for human dialog. We strive to be aware of the limitations of the tools we use and keep in mind that they are a means to engage people and not an end in themselves.
 
@@ -32,7 +32,7 @@ Some projects need tactical engineering measures that are not meant to last. Oth
 
 # Code for the future
 
-We think about the big picture before making important decisions. Creating a system to solve a complex problem is only the first part of a software project. Good systems last because they are maintainable and also maximize value for the client. Others will inherit our work and need to improve and maintain it. We don’t have perfect memory and know that sometimes the inheritors are just “future us.” We optimize code for future readers, even if that means using more verbose language or limiting the use of uncommon language features.
+We think about the big picture before making important decisions. Creating a system to solve a complex problem is only the first part of a software project. Good systems last because they are maintainable and also maximize value for the client. Others will inherit our work and need to improve and maintain it. We don’t have perfect memory and know that sometimes the inheritors are just “future us”. We optimize code for future readers, even if that means using more verbose language or limiting the use of uncommon language features.
 
 We delight in automating away repetition for ourselves, the community, and our clients. Automation promises to reduce technical debt in our code, make our processes more robust, and save time and money. However, automation can also add unnecessary complexity and waste time. Just because we *can* automate something doesn’t mean we *should*.
 
@@ -40,4 +40,4 @@ We delight in automating away repetition for ourselves, the community, and our c
 
 As engineers, we have a tendency to look at technical challenges as fun puzzles to be solved. We try things, we break things, and we try again. We come back to work each day because we enjoy tinkering with the systems we build. When planning our work, we strive to leave room for joy, even with tight deadlines and exacting requirements.
 
-Making room for joy empowers us to find possibilities instead of problems, and to accept criticism with an open mind. Even amid extreme technical challenges, we find something to smile about—whether that’s a new skill learned, a helpful teammate, or wistfully deleting code we loved. Together, we smile in the face of adversity, freeing us to find elegant solutions to the toughest problems.
+Making room for joy empowers us to find possibilities instead of problems, and to accept criticism with an open mind. Even amid extreme technical challenges, we find something to smile about — whether that’s a new skill learned, a helpful teammate, or wistfully deleting code we loved. Together, we smile in the face of adversity, freeing us to find elegant solutions to the toughest problems.
