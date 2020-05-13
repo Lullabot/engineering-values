@@ -34,7 +34,7 @@ Some projects need tactical engineering measures that are not meant to last. Oth
 
 We think about the big picture before making important decisions. Creating a system to solve a complex problem is only the first part of a software project. Good systems last because they are maintainable and also maximize value for the client. Others will inherit our work and need to improve and maintain it. We don’t have perfect memory and know that sometimes the inheritors are just “future us”. We optimize code for future readers, even if that means using more verbose language or limiting the use of uncommon language features.
 
-Automating away repetition for ourselves, the community, and our clients is delightful. Automation promises to reduce technical debt in our code, make our processes more robust, and save time and money. However, automation can also add unnecessary complexity and waste time. Just because we *can* automate something doesn’t mean we *should*.
+Automating away repetition for ourselves, the community, and our clients is deeply gratifying. Automation promises to reduce technical debt in our code, make our processes more robust, and save time and money. However, automation can also add unnecessary complexity and waste time. Just because we *can* automate something doesn’t mean we *should*.
 
 ## Work joy into work
 
