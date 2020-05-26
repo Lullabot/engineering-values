@@ -1,6 +1,6 @@
 # Lullabot’s Engineering Values
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 
 At Lullabot, we are a team with a wide variety of backgrounds coming together to build systems to solve complex problems. We combine strategy, user interface design, and code, into cohesive software solutions. Together, this work forms a [practice of software engineering](https://www.merriam-webster.com/dictionary/engineering). You may not think of yourself as an engineer, but what we do at Lullabot collectively is engineering. When we say engineering, we mean *you*.
 
@@ -43,3 +43,5 @@ Automating away repetition for ourselves, the community, and our clients is deep
 As engineers, we have a tendency to look at technical challenges as fun puzzles to be solved. We try things, we break things, and we try again. We come back to work each day because we enjoy tinkering with the systems we build. When planning our work, we strive to leave room for joy, even with tight deadlines and exacting requirements.
 
 Making room for joy empowers us to find possibilities instead of problems, and to accept criticism with an open mind. Even amid extreme technical challenges, we find something to smile about — whether that’s a new skill learned, a helpful teammate, or wistfully deleting code we loved. Together, we smile in the face of adversity, freeing us to find elegant solutions to the toughest problems.
+
+_This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>._
