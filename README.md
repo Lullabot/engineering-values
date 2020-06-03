@@ -24,7 +24,7 @@ We cultivate inclusivity at a technical level by building accessible products be
 
 We find our work fulfilling because we are always given the opportunity to learn something new. We like to work on new, unsolved problems over applying the same solutions to the same problems. Learning and sharing, with ourselves, our clients, and open communities is woven through all the work we do day by day.
 
-We believe that the best engineering comes from sharing and building together as a group. We embrace open-source software and processes. The process of open code-review keep us innovating, and saves us from reinventing the wheel. By integrating collaboration into our daily work, we create the space for our team to ask for help and to be generous with their knowledge.
+We believe that the best engineering comes from sharing and building together as a group. We embrace open-source software and processes. The process of open code-review keeps us innovating, and saves us from reinventing the wheel. By integrating collaboration into our daily work, we create the space for our team to ask for help and to be generous with their knowledge.
 
 ## Excellence balances perfect and done
 
